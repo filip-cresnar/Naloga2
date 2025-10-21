@@ -1,6 +1,6 @@
 # Eco Path #
 
-![Eco Path](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Deco%2Blogo&psig=AOvVaw3hdUUJM1jN4Z7jUC0-sIoe&ust=1761135772534000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjn0pKktZADFQAAAAAdAAAAABAE)
+![Eco Path](eco.jpg)
 
 | Ime in priimek     | Vloga             |
 |--------------------|-------------------|
