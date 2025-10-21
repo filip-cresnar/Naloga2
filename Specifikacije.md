@@ -1,6 +1,6 @@
 # Eco Path #
 
-![Eco Path]([eco.jpg](https://t3.ftcdn.net/jpg/04/58/11/48/360_F_458114856_jo4H4mRD64DpZA5ym1GYNXU8c6vKvC0Q.jpg))
+![Eco Path]([eco.jpg](eco.jpg))
 
 | Ime in priimek     | Vloga             |
 |--------------------|-------------------|
