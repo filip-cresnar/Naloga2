@@ -1,6 +1,6 @@
 # Eco Path #
 
-![Eco Path](eco.jpg)
+![Eco Path]([eco.jpg](https://img.freepik.com/premium-vector/eco-icon-with-green-letters-2-leaves-white-background_95164-12306.jpg?semt=ais_hybrid&w=740&q=80))
 
 | Ime in priimek     | Vloga             |
 |--------------------|-------------------|
